@@ -1,6 +1,6 @@
 import pandas as pd
 import datetime as dt 
-from binance import Client 
+from binance.client import Client 
 import csv
 import time
 import numpy
